@@ -1,4 +1,4 @@
-# enot-cv
+# VueTutorial
 
 ## Project setup
 ```
